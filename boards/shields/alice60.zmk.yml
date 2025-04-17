@@ -1,0 +1,8 @@
+file_format: "1"
+id: alice60
+name: alice60
+type: shield
+url: https://zmk.dev/
+requires: [nrfmicro_13]
+features:
+  - keys
